@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_multiselect: ^0.5.1
+  google_maps_flutter: ^0.4.0
 
 
   # The following adds the Cupertino Icons font to your application.
